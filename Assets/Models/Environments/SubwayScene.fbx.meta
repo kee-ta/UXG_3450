@@ -3,7 +3,57 @@ guid: d400543b80458444a81d7291d9aaa6e1
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Posters2_MAT
+    second: {fileID: 2100000, guid: 2827d977f4e94824db6c1de0d8fbb551, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Posters_MAT
+    second: {fileID: 2100000, guid: fdedfb68d27e71a4a828e53058461c2c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: StoneFloorPuddle_MAT
+    second: {fileID: 2100000, guid: 817f7a234b01c0b4987af1366db3e5fc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: StoneFloor_MAT
+    second: {fileID: 2100000, guid: dd04d701fbf895f4699375658510e84f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Trimsheet_MAT
+    second: {fileID: 2100000, guid: 1167b0cee7bea504fb54b8ffa7ba8425, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__Trimsheet_MAT
+    second: {fileID: 2100000, guid: fda6b2c523e7c0b40911035ff115dc4b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__Trimsheet_MAT1
+    second: {fileID: 2100000, guid: 6732e76ae73ad54408417bc507d17635, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__Trimsheet_MAT2
+    second: {fileID: 2100000, guid: 4269d104e3887cf4db951abf3a3938fd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__Trimsheet_MAT3
+    second: {fileID: 2100000, guid: 4784d521f1a247149922e5197a34cc9e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__Trimsheet_MAT4
+    second: {fileID: 2100000, guid: fb8faa5ed0551ab4b8edf227f34ca2b8, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
